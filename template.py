@@ -29,6 +29,7 @@ list_of_files = [
     "requirements.txt",
     "Dockerfile",
     ".dockerignore",
+    ".env"
     "demo.py",
     "setup.py",
     "config/model.yaml",
